@@ -4,7 +4,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/gen2brain/malgo"
+	"github.com/edaniels/malgo"
 )
 
 // Playback streams samples from a reader to the sound device.

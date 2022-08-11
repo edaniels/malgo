@@ -1,6 +1,6 @@
 package io_api
 
-import "github.com/gen2brain/malgo"
+import "github.com/edaniels/malgo"
 
 // StreamConfig describes the parameters for an audio stream.
 // Default values will pick the defaults of the default device.

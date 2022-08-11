@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gen2brain/malgo"
+	"github.com/edaniels/malgo"
 )
 
 func main() {

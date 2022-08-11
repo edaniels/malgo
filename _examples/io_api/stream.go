@@ -3,7 +3,7 @@ package io_api
 import (
 	"context"
 
-	"github.com/gen2brain/malgo"
+	"github.com/edaniels/malgo"
 )
 
 func stream(ctx context.Context, abortChan chan error, deviceConfig malgo.DeviceConfig, deviceCallbacks malgo.DeviceCallbacks) error {

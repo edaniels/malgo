@@ -10,7 +10,7 @@ import (
 	"github.com/hajimehoshi/go-mp3"
 	"github.com/youpy/go-wav"
 
-	"github.com/gen2brain/malgo"
+	"github.com/edaniels/malgo"
 )
 
 func main() {
